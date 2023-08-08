@@ -8,6 +8,7 @@ public class Bootcamp2SpringbootApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(Bootcamp2SpringbootApplication.class, args);
+
 	}
 
 }
