@@ -7,7 +7,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class Bootcamp2SpringbootApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(Bootcamp2SpringbootApplication.class, args);
+		SpringApplication.run(Bootcamp2SpringbootApplication.class, args); 
+
 	}
 
 }
